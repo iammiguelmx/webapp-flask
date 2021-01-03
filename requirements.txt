@@ -2,3 +2,4 @@ Flask
 Flask-MySQLdb
 Flask-WTF
 passlib
+functools
